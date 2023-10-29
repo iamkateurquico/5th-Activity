@@ -1,0 +1,22 @@
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.p2 {
+  font-style: italic;
+}
+
+.button {
+  color: #fff;
+  background-color: #c4302b;
+  font-style: normal;
+  font-family: palatino;
+  font-weight: 700;
+}
+
+footer {
+  font-weight: 600;
+  color: #000;
+  text-align: right;
+}
